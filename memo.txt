@@ -1,2 +1,4 @@
 npm init
 npm install mongoose--save
+npm install body-parser save
+node mon : 소스 변경시 서버 자동 재시작 
